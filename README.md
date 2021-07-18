@@ -2,7 +2,7 @@
 This repository contains the source code to support the paper 
 **The Hammer and the Nut: Is Bilevel Optimization Really Needed to Poison Linear Classifiers?**, 
 by Antonio Emanuele Cinà, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli and Marcello Pelillo,
-submitted to IJCNN 2021.
+accepted at IJCNN 2021.
 
 
 # Installation 
